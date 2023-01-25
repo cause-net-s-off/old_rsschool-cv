@@ -1,1 +1,1 @@
-https://github.com/cause-net-s-off/rsschool-cv/cv
+https://cause-net-s-off.github.io/rsschool-cv/cv
