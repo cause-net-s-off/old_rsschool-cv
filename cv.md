@@ -5,11 +5,21 @@
     * tg: causenetsoff
     * discord: somebody#6576
 
-I am an automation engineer for 10 years, my job is related to industrial equipment. I write algorithms for controllers (Step7), set up various types of equipment.
-I have been interested in IT for a long time and want to change the field of activity. I like front end and want to make it my profession.
-I have some knowledge and basic programming skills in languages such as C++, Java script, dabbled a bit in html.
+## Briefly About Myself:
+I am an automation engineer for 10 years, my job is related to industrial equipment. My duties at work are: writting algorithms for controllers (Step7), setting up various types of equipment. I also have extensive experience in motion design, visual effects compositing, video editing and image processing.
 
-### My recent JS code (calculating the sum of all elements of an array without limiting their values)
+IT has been my area of interest for a long time and want to change the field of activity. I like front end and want to make it my profession.
+
+## Skills:
+    * C++ Basics
+    * Java Script Basics
+    * Git/GitHub Basics
+    * VS Code 
+    * Adobe Suite Strong skills (After Effects, Photoshop, Premiere Pro, Lightroom)
+    * Nuke
+
+### My recent JS code: 
+*Calculating the sum of all elements of an array without limiting their values*
 ```javascript
 // elements of arr could be a strings
 const sum = (arr) => {
@@ -34,7 +44,9 @@ const sum = (arr) => {
 ```
 
 **Education**: higher technical, computer-aided design systems
+
 **English level**: pre-intermediate
 
-[My CV](https://github.com/cause-net-s-off/rsschool-cv/cv "Some info about myself")
+
+[My CV](https://cause-net-s-off.github.io/rsschool-cv/cv "Some info about myself")
 
